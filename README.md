@@ -1,5 +1,5 @@
 Ebitengine libraries:
-- [etxt](https://github.com/tinne26/etxt): text rendering for vectorial fonts + some flashy WASM examples.
+- [etxt](https://github.com/tinne26/etxt): text rendering for vectorial fonts + cool WASM examples.
 - [ptxt](https://github.com/tinne26/ptxt): text rendering for pixel fonts in a custom format.
 - [mipix](https://github.com/tinne26/mipix): assistance for pixel art games.
 
