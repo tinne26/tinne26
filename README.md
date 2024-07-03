@@ -1,16 +1,19 @@
-## Hi there 👋
+Ebitengine libraries:
+- [etxt](https://github.com/tinne26/etxt): text rendering for vectorial fonts + some flashy WASM examples.
+- [ptxt](https://github.com/tinne26/ptxt): text rendering for pixel fonts in a custom format.
+- [mipix](https://github.com/tinne26/mipix): assistance for pixel art games.
 
-<!--
-**tinne26/tinne26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ebitengine tutorials:
+- [kage-desk](https://github.com/tinne26/kage-desk): the best way to learn Kage shaders.
+- [tps-vs-fps](https://github.com/tinne26/tps-vs-fps): understand fixed timestep loops.
 
-Here are some ideas to get you started:
+Ebitengine games:
+- [bindless](https://github.com/tinne26/bindless): really hard isometric puzzle game (2022).
+- [lucky-feet](https://github.com/tinne26/lucky-feet): buggy but colorful platformer (2023-2024).
+- [transition](https://github.com/tinne26/transition): very underdeveloped; nice technical groundwork (2023).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other hacky stuff:
+- [sfntshape](https://github.com/tinne26/sfntshape): try this on your browser if you like geometry and art.
+- [aabb](https://github.com/tinne26/aabb): 2D collision-detection algorithms with some benchmarks.
+- [edau](https://github.com/tinne26/edau): audio utils for Ebitengine.
+- [badcolor](https://github.com/tinne26/badcolor): oklab and gradient generation.
