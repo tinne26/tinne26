@@ -9,7 +9,7 @@ Ebitengine tutorials:
 
 Ebitengine games:
 - [bindless](https://github.com/tinne26/bindless): really hard isometric puzzle game (2022).
-- [lucky-feet](https://github.com/tinne26/lucky-feet): buggy but colorful platformer (2023-2024).
+- [luckyfeet](https://github.com/tinne26/luckyfeet): buggy but colorful platformer (2023-2024).
 - [transition](https://github.com/tinne26/transition): very underdeveloped; nice technical groundwork (2023).
 
 Other hacky stuff:
